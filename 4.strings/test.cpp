@@ -6,9 +6,6 @@ int &fun(){
     int &b = a;
     return b;
 }
-
-
-
 int main() {
     //2-D ARRAY CREATION
     int n, m;
